@@ -1,10 +1,10 @@
-- 👋 Hi, I’m @Afnan-Riaz
-- 👀 I’m interested in Coding
-- 🌱 I’m currently learning C++
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me hafiz.afnan322@gmail.com
+# Hi there, I'm Afnan Riaz! 👋
 
-<!---
-Afnan-Riaz/Afnan-Riaz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I'm a passionate software engineer with expertise in full-stack web development and app development. Currently, I'm exploring the realms of MERN stack, Next.js, Java, and C++.
+
+## About Me
+
+- 🎓 Software Engineering graduate from FAST University.
+- 💻 Experienced in software development and management.
+- 🌱 Always eager to learn and explore new technologies.
+- 💬 Let's connect on [LinkedIn](https://www.linkedin.com/in/afnanriaz)!
